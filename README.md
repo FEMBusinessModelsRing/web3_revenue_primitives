@@ -4,7 +4,7 @@
 ---
 
 <h1 id="revenue-models">Revenue Models</h1>
-<p>This README breaks down business revenue models into 8 types and provides examples of each. In addition, we reference Ben Wenmuller’s series of tweets with a potentially new business model for decentralized platforms - capital gains.</p>
+<p>This breaks down business revenue models into 8 types and provides examples of each. In addition, we reference Ben Wenmuller’s series of tweets with a potentially new business model for decentralized platforms - capital gains.</p>
 <h2 id="types-of-revenue-models">8(+1) types of revenue models</h2>
 
 <table>
