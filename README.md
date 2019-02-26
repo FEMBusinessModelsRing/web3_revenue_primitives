@@ -68,8 +68,7 @@
 <h2 id="example-of-disruptive-business--revenue-model">Example of disruptive business / revenue model</h2>
 <p>Video Entertainment<br>
 Company A - retail stores, charge per rental (unit sales)<br>
-Company B - online “DVDs-by-mail”, monthly fee (subscription)<br>
-Who won?</p>
+Company B - online “DVDs-by-mail”, monthly fee (subscription)</p>
 <h2 id="new-revenue-models">New revenue models</h2>
 <p>How can decentralized platforms up-end the revenue models for businesses that seem to have their revenue model locked in?</p>
 <p>For example, payments, which has been based on utility fees.</p>
