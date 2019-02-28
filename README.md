@@ -19,13 +19,15 @@ This repository is an attempt at list of *web3 revenue primitives*, created by, 
   * [Lending](#lending)
   * [Curating](#curating)
   * [Creating](#creating)
+  * [Funding](#funding)
   * [Questionable / Possible Ponzi Schemes](#questionable---possible-ponzi-schemes)
+- [Web 2 Revenue Models](#web2-revenue-models)
 - [What did we miss?](#what-did-we-miss-)
 
 
 ## Marketplace Percentage Fee
 
-This model is where you take a % of each transaction on your platform. It is popular with exchanges.
+This model is where you take a % of each trsanction on your platform.  It is popular with exchanges.
 
 ## ICOS
 
@@ -39,7 +41,6 @@ Some popular ICO models:
 * [Simple Agreement for Future Tokens](https://medium.com/@argongroup/explaining-the-simple-agreement-for-future-tokens-framework-15d5e7543323)
 * [Cryptocurrency Airdrop](https://en.wikipedia.org/wiki/Airdrop_(cryptocurrency))
 * [DAICOs](https://medium.com/@bonpay/daico-review-vitalik-buterins-new-model-of-ico-2091d5b1f873)
-
 Some popular ICOs:
 
 * [Neo(China's Ethereum)](https://www.investinblockchain.com/what-is-neo/)
@@ -54,8 +55,8 @@ Types of tokens:
 * [Equity/Security Token](https://blockgeeks.com/guides/security-tokens/)
 * [Currency Token](https://cryptocurrencyfacts.com/what-is-a-cryptocurrency-token/)
 * [Reward Token](https://bitcoinexchangeguide.com/rewards-token-ico/)
-* [Asset Token](https://medium.com/pecunio/the-rise-of-asset-backed-tokens-90570438261c)
-* [Non Fungible Tokens](https://blog.coinbase.com/the-playful-paradigm-shift-4bf35d9d1d11)
+* [Digitalized Asset Token](https://medium.com/pecunio/the-rise-of-asset-backed-tokens-90570438261c)
+* [Non Fungible Token/Digital Asset Token](https://blog.coinbase.com/the-playful-paradigm-shift-4bf35d9d1d11)
 
 ## Continuous Funding Models
 
@@ -142,33 +143,118 @@ The creation of new things on chains will have value. Selling them to people who
 
 * [Cryptokitties](https://www.cryptokitties.co/)
 
+## Funding
+
+Funding is the same whether it is at the ecosystem level or at the level of a single entity wanting to support funding. Grants are the main source of funding for projects in the Ethereum Community. Grants give a short time horizon for projects and don’t take into consideration the setup costs. Once a project has been set up, maintenance requires longer-term funding than grants provided. In many cases for an individual or small team, a business model of services can be considered on a project to project basis to find long term support. Operational costs hit projects with real-world budget and cash flow problems, and decentralized projects excel when they gather together for support.
+
+There is no one entity in charge of Ethereum, so the community must look at different funding bodies and revenue streams. For decentralized projects, it is a good idea to have different funding for different aspects of the ecosystem, such as stack, research, or community.  Obtaining multiple entities to fund a project is part of the shared ecosystem of Ethereum. Multiple entities of funding stop the community from defunding project Y, and instead disperse funding to both project X and Y. To get funding and sustainability of a project, it is best to collaborate with others who want to support the infrastructure, rather than waste time on putting together grant systems.
+
+* [Funding Taxonomy](https://ethereum-magicians.org/t/funding-taxonomy-issues-for-ethereum-ecosystem/2014)
+* [Funding Opportunities](https://github.com/fredexed/crypto-funding-ops)
+* [Web3 Grants](https://hackmd.io/z5zFMTjiRJqs-4Wm43bJtQ)
+
 ## Advertising
 
 There are some options for doing advertising-based business models for open source projects, listed below.
 
 * [CodeFund](http://codefund.app)
 
+## Personal Tokens
+Personal tokens are fixed-supply and -cost ERC20 tokens that derive their value from the performance of a human being. They are commonly used to tokenize either individual service offerings or a fixed-price hourly service.
+
+* [DAppBoi](https://dappboi.com/)
+
+  DAppBoi is an example of a personal token which tokenizes an hour of digital work by designer Matthew Vernon. By initiating the ERC20 token with a fixed supply of 100 $BOI tokens, purchasable directly from Matthew for 0.65ETH each, this personal token allows an individual to effectively purchase, trade, and invest in Matthew's design skillset.
+
+  The tokens are redeemed by sending them to Matthew, who in exchange for 1 $BOI token provides 1 hour of design work. By using a personal token, not only does Matthew create demand for his skillset through a fixed token supply, but he also ensures that he will receive a minimum of 0.65ETH for each hour he works, since he is the primary supplier of the token and hence, regulates its price. In addition, using a personal token ensures that even if the market price for $BOI falls, Matthew will have already been compensated at his pre-determined hourly rate for the tokens in circulation.
+
+  In the case that Matthew denies service to an individual who redeems $BOI, although the market valuation for the token may fall, Matthew has already been paid in advance for the initial purchase, thus, fulfilling his hourly rate.
+
 
 ## Questionable / Possible Ponzi Schemes
 
 TODO - What else should live here?
 
-* [Fomo3d](https://medium.com/@eetusro/i-note-this-is-fin-e-6646f4a1e55b)
-
-
 ## Staking/Indirect Staking
 
-With the advent of DPoS in main-nets and side-chains like Loom Network, staking will be a bigger way to generate revenue in the future. Right now, the only use cases on the market are service-based staking pools like Rocket Pool. However, in the future, dApp companies could use stake as an option to earn revenue. An example would be a dApp smart contract that accepts Ethereum 2.0's ETH as stake from their users in return for dApp utility tokens, and then these dApp developers can use this pool of user-staked Ether to earn mining rewards from the Ethereum main-net.
+With the advent of PoS/DPoS in mainnets and sidechains, staking will provide greater opportunities for revenue generation in the future. Right now the only application on the market are service-based staking pools like Rocket Pool. However, in the future, dApp companies could use allow users to stake PoS tokens. An example would be a dApp that allows users to stake Ethereum 2.0 ETH tokens from their users in return for their dApp utility tokens. The dApp then uses the staked Loom Network tokens to earn PoS mining rewards.
 
 * [Rocket Pool](https://www.rocketpool.net/)
 
 ## Tipping
 
-The protocol could have a tip method that is called by users. This method mints coins and sends them to the dApp developer which maintains and upgrades the protocol. Pros: Value is generated through protocol upgrades. Minting coins and giving them to the developer is akin to companies giving stock to employees. Cons: Could lead to protocol being very centralized. 
+The protocol could have a tip method that is called by users. This method mints coins and sends them to the dApp developer which maintains and upgrades the protocol. Since value is generated through protocol upgrades, minting coins to the developer is akin to companies giving stock to employees. However, this set up could lead the dApp to be very centralizated.
+
+* [Fomo3d](https://medium.com/@eetusro/i-note-this-is-fin-e-6646f4a1e55b)
 
 ### Rent
 
 * [Determining a fair rent model of ENS](https://discuss.ens.domains/t/determining-a-fair-rent-model/603) = NOTE: At ENS, the purpose of the rent is to avoid squatters rather than making profit
+
+# Web2 Revenue Models
+##### The system designed by which a business monitizes its services
+---
+*"The ideal revenue model will be one that improves the user experience, or at least in no way harms it."*
+
+| Model     |                                      Description                                      | Examples |
+|:------------------------:|-------------------------------------------------------------------------------------|:----------:|
+| Advertising            |       Service is free to use, marketers pay to reach your users via advertising       | [examples](#advertising-model) |
+| Commerce               |             Sell something to your users, keep some or all of the proceeds            | [examples](#commerce-model) |
+| Subscription           |     Charge your users monthly or annually for the opportunity to use your service     | [examples](#subscription-model) |
+| Freemium          |     Sell a basic free product to as many customers as possible, but keep the premium features exclusively for paying customers     | [examples](#freemium-model) |
+| Peer to Peer           |  Connect people together in a network, take a small piece of the activity that ensues | [examples](#peer-to-peer-model) |
+| Transaction Processing |      Settle transactions, then take a small piece of the transaction for doing so     | [examples](#transaction-processing-model) |
+| Licensing              |          Charge users once upfront for the opportunity to use your technology         | [examples](#licensing-model) |
+| Data                   |                          Sell the data your service generates                         | [examples](#data-model) |
+| Mobile                 | Not a revenue model but presents unique challenges and opportunities for monetization | [itunes app store](https://itunes.apple.com/us/genre/ios/id36?mt=8) |
+| Gaming                 | Not a revenue model but presents unique challenges and opportunities for monetization | [steam](https://store.steampowered.com) |
+
+###### These categories are not mutually exclusive. Many web/mobile services use multiple revenue models. Freemium for example is a combination of advertising & subscription.
+---
+## Examples
+
+#### Advertising Model
+* Search Ads - [Google](https://google.com)
+* Video Ads - [Youtube](https://youtube.com)
+* Location-based Ads - [Foursquare](https://foursquare.com)
+
+#### Commerce Model
+* Group buying - [Groupon](https://groupon.com)
+* Digital goods/downloads - [Itunes](https://itunes.com)
+* Auction commerce - [Ebay](https://ebay.com)
+
+#### Subscription Model
+* Software as a Service (SaaS) - [FreshDesk](https://freshdesk.com)
+* Infrastructure as a Service (IaaS) - [AWS](https://aws.amazon.com/)
+* Membership services - [Amazon Prime](https://www.amazon.com/gp/prime
+)
+
+#### Freemium Model
+* [Dropbox](https://dropbox.com)
+<img src='imgs/dropbox.jpg'>
+
+* [Adobe](https://adobe.com)
+* [LinkedIn](https://linkedin.com)
+
+#### Peer to Peer Model
+* [Airbnb](https://airbnb.com)
+* [Uber](https://uber.com)
+* [Match.com](https://match.com)
+
+#### Transaction Processing Model
+* [Paypal](https://paypal.com)
+* [Stripe](https://stripe.com)
+* [Google Pay](https://pay.google.com/)
+
+#### Licensing Model
+* Per Device/Server License – [Microsoft products](https://microsoft.com)
+* Per Application instance – [Adobe Photoshop](https://adobe.com)
+* Patent Licensing – [Qualcomm](https://qualcomm.com)
+
+#### Data Model
+* User data - [LinkedIn](https://linkedin.com)
+* Search data - [Google](https://google.com)
+* Benchmarking services – [Comscore](https://comscore.com)
 
 # What did we miss?  
 
