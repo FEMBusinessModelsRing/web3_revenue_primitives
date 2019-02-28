@@ -41,6 +41,7 @@ Some popular ICO models:
 * [Simple Agreement for Future Tokens](https://medium.com/@argongroup/explaining-the-simple-agreement-for-future-tokens-framework-15d5e7543323)
 * [Cryptocurrency Airdrop](https://en.wikipedia.org/wiki/Airdrop_(cryptocurrency))
 * [DAICOs](https://medium.com/@bonpay/daico-review-vitalik-buterins-new-model-of-ico-2091d5b1f873)
+
 Some popular ICOs:
 
 * [Neo(China's Ethereum)](https://www.investinblockchain.com/what-is-neo/)
