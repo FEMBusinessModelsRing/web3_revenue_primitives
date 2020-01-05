@@ -559,9 +559,9 @@ Works like this:
     
 4. A second user believes very strongly that PoolTogether will be very successful, and capture a lot of Dai in its reserve. They come and purchase 1,000 PTG tokens for the cost of ~1,500 Dai (the bonding curve updates its price for total order size, as Uniswap does).
     
-5. Because of this sale, the first user that purchase 1 PTG token at 1 Dai, can now come to the bonding curve, and submit their PTG token, and receive 1.50 Dai, for a .50 Dai profit.
+5. Because of this sale, the first user that purchased 1 PTG token at 1 Dai, can now come to the bonding curve, and submit their PTG token, and receive 1.50 Dai, for a .50 Dai profit.
     
-6. But the first user also things that PoolTogether will be successful, so he doesn’t.
+6. But the first user also thinks that PoolTogether will be successful, so he doesn’t.
     
 7. Everyone wants some exposure to PoolTogether. The bonding curve takes in 500,000 Dai over the next few months, and issues 200,000 PTG tokens, now worth 2.5 Dai each.
     
