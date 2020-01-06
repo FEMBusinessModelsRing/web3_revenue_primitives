@@ -204,6 +204,10 @@ Cryptoeconomics.Study Resources
 
 ## Streaming Money
 
+### Smart Contracts
+Protocol for real-time finance.
+* [Sablier](https://www.sablier.finance/)
+
 ### Side Channels:
 A sidechain is a separate blockchain that is attached to its parent blockchain(mainchain) using a two-way peg. You can move assets to the sidechain and then back to the parent chain.
 Sidechains need their own miners. These miners can be incentivized through ‘merged mining’, whereby two separate cryptocurrencies, based on the same algorithm, are mined simultaneously.
@@ -263,6 +267,7 @@ Identity Standards Proposals:
 * [Decentralized Identifiers (DID)](https://w3c-ccg.github.io/did-spec/)
 
 Projects in the Identity space:
+* [3Box](https://3box.io/)
 * [uPort](https://uport.me)
 * [Civic](https://www.civic.com/)
 * [BloomID](https://bloom.co/identity/)
